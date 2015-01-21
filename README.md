@@ -14,4 +14,4 @@ Extract email addresses easily.
 
 * (C)2014-2015 SumiMakito
 * License: GPL 3.0
-* Read file [COPYING](COPYING)
+* Read [License](LICENSE)
